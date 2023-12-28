@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/laxupaddhyay" target="blank"><img src="https://img.shields.io/twitter/follow/laxupaddhyay?logo=twitter&style=for-the-badge" alt="laxupaddhyay" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://lakshya-git-main-lakshyaupaddyay.vercel.app](https://lakshya-git-main-lakshyaupaddyay.vercel.app)
+- 👨‍💻 My portfolio website:- [https://lakshya-git-main-lakshyaupaddyay.vercel.app](https://lakshya-git-main-lakshyaupaddyay.vercel.app)
 
 - 📫 How to reach me **lakshyasharma024@gmial.com**
 
