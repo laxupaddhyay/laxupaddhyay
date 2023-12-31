@@ -9,9 +9,9 @@
 
 - 👨‍💻 My portfolio website:- [https://lakshya-git-main-lakshyaupaddyay.vercel.app](https://lakshya-git-main-lakshyaupaddyay.vercel.app)
 
-- 📫 How to reach me **lakshyasharma024@gmial.com**
+- 📫 How to reach me **lakshyasharma024@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ "Fun fact: **I believe humor is *my superpower*, and I’m convinced that laughter is the secret ingredient to creativity and success. Armed with wit and a love for levity, I navigate the world with a smile, turning ordinary moments into extraordinary ones.**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
